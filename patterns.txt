@@ -1,0 +1,12 @@
+[
+	{
+		"regex" : "erik",
+		"message" : "suspect erik in the code",
+		"dummy" : "dummy"
+	},
+	{
+		"regex" : "marc",
+		"message" : "suspect marc in the code",
+		"dummy" : "dummy"
+	}
+]

@@ -1,0 +1,2 @@
+sec-scanner$
+patterns.txt$
